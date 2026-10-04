@@ -1,0 +1,2 @@
+# StatisticsSimulator
+統計学に関する計算をシミュレートするプログラム
